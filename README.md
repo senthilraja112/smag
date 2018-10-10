@@ -1,0 +1,2 @@
+# smag
+aicte project
