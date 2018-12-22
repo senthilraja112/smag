@@ -1007,14 +1007,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #clients img {
   max-width: 100%;
-  opacity: 0.5;
-  transition: 0.3s;
-  padding: 15px 0;
+  opacity: 1;
+  padding: 15px 10px;
 }
 
-#clients img:hover {
-  opacity: 1;
-}
+
 
 #clients .owl-nav, #clients .owl-dots {
   margin-top: 5px;
@@ -1167,6 +1164,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   font-size: 13px;
   color: #fff;
+  display:block;
 }
 
 #team .member .social {
